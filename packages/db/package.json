@@ -13,11 +13,11 @@
   },
   "types": "./index.ts",
   "dependencies": {
-    "@prisma/client": "4.10.1"
+    "@prisma/client": "5.21.1"
   },
   "devDependencies": {
     "dotenv-cli": "7.0.0",
-    "prisma": "4.10.1",
+    "prisma": "5.21.1",
     "typescript": "4.9.5"
   }
 }
