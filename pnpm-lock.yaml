@@ -4,11 +4,11 @@ importers:
 
   .:
     specifiers:
-      prettier: 2.8.4
+      prettier: 3.9.9
       turbo: 1.8.2
       typescript: 4.9.5
     devDependencies:
-      prettier: 2.8.4
+      prettier: 3.9.9
       turbo: 1.8.2
       typescript: 4.9.5
 
@@ -91,9 +91,9 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /prettier/2.8.4:
-    resolution: {integrity: sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==}
-    engines: {node: '>=10.13.0'}
+  /prettier/3.9.9:
+    resolution: {integrity: sha512-Z/CJHIkdujO/OtN7nXUii0Rf3VT5SRuhjBA82Xvu2XhBUgX3nhP67T0LHceBdQLex7OOFGTox+Q5Yg8Jk2Qivg==}
+    engines: {node: '>=14'}
     hasBin: true
     dev: true
 
